@@ -4,6 +4,7 @@ Updated app.py to create separate files for each page - 4 in all
 Also, edited api call to also collect contacts to be notified
 Next: update processjson to append friendly names
 
+
 10 April 2017
 Successfully created json file from uptimerobot api
 Need to find a way to parse the alerts from this

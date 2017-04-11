@@ -1,23 +1,19 @@
 import json
 
 inputfilename = 'uptimerobot.json'
+inputfilename100 = 'uptimerobot100.json'
+inputfilename150 = 'uptimerobot150.json'
+inputfilename200 = 'uptimerobot200.json'
 
-with open(inputfilename, 'r') as inputfile:
-    jsondata = inputfile.read()
+def printmonitors(inputfilename):
+    with open(inputfilename, 'r') as inputfile:
+        jsondata = inputfile.read()
+    decoded = json.loads(jsondata)
+    for check in range(len(decoded['monitors'])):
+        print("Monitor is:", decoded['monitors'][check]['friendly_name'])
+    print(len(decoded['monitors']))
 
-# print(inputfilename, jsondata, type(jsondata))
-
-# jsonfile = open(inputfilename, 'r')
-# jsondata = jsonfile.read()
-# print(jsondata)
-
-decoded = json.loads(jsondata)
-
-# pretty printing of json-formatted string
-print(json.dumps(decoded, sort_keys=True, indent=4))
-
-print("JSON parsing example: ", decoded['monitors'])
-print("Complex JSON parsing example: ", decoded['monitors'][0]['friendly_name'])
-for check in range(len(decoded['monitors'])):
-    print("Monitor is:", decoded['monitors'][check]['friendly_name'])
-print(len(decoded['monitors']))
+printmonitors(inputfilename)
+printmonitors(inputfilename100)
+printmonitors(inputfilename150)
+printmonitors(inputfilename200)
