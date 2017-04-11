@@ -2,7 +2,8 @@
 Created processjson app to find friendly names. Works but only first 50 because of pagination limit
 Updated app.py to create separate files for each page - 4 in all
 Also, edited api call to also collect contacts to be notified
-Next: update processjson to append friendly names
+Updated processjson with friendly names
+Next: need to delete contents of .txt file before appending.
 
 
 10 April 2017
