@@ -1,16 +1,16 @@
-ar.pcspeedup.com (Vajdik - Diego)
-Blog.Speedchecker.xyz
-BSC : bezeq1.speedcheckerapi.com
-BSC Failover (PD)
-BSC: bezeq2.speedcheckerapi.com
-BSC: BSCpayload:SanPauloBR (Sergey)
-BSC: bscsvr ServerSelection StatusCheck.aspx (PD)
-BSC: bscsvr2 ServerSelection StatusCheck.aspx (PD)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
 BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
 BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
 BSC: static ServerSelection StatusCheck.aspx
-BSC:API alive (Diego - Vajdik)
-BSC:api TakenTests (Diego - Vajdik)
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
 BSC:aws1ie.speedcheckerapi.com
 BSC:aws2ie.speedcheckerapi.com
 BSC:aws3ie.speedcheckerapi.com
@@ -38,7 +38,7 @@ CloudPerf_AggregatedResults_5min
 CloudPerf_AggregatedResults_60min
 CloudPerf_ProbeAPI_GetCountries
 CloudPerf_ProbeAPI_ping
-CloudPerf_Results_1m (PD)
+CloudPerf_Results_1m (SMS:  D - O - J)
 CloudPerf_Scheduler_ping
 CloudPerf_Scheduler_Status
 DB Downloads - drivercommander (Diego)
@@ -54,11 +54,11 @@ internal zabbix server (linode, sergey)
 LandingPage download PCSU free_scan
 LandingPage download PCSU homepage
 LandingPage download PCSU reg_cleaner
-Leaseweb (PD)
+Leaseweb (SMS: J - O V D)
 link.pcspeedup.com redirection check (JANUSZ)
 MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
 Offer system - accepted counter
-Offer system - New records number (Diego) (PD)
+Offer system - New records number (SMS: D - V - O - J)
 Offer system - No silent offer
 Offer system - OK
 Old PK (BandwidthMeter and other sites) (Vajdik)
@@ -69,16 +69,16 @@ OpenEMM redirect check
 OpenEMM server (Diego)
 OpenEMM URL Verification (SG no PD)
 PAP system
-PC Speed Up Download Check (Vajdik - Diego) (PD)
+PC Speed Up Download Check (SMS: V - D - O - J)
 PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
 PCSU API - Database connections number (Ovi - Diego)
-PCSU APi GetUninstallerOption SKIP
-PCSU: API alive (Diego - Vajdik)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
 PercentageOfBenchmarksWithNOResults
-PK download simulation (Vajdik - Diego)
+PK download simulation (SMS: V - D - O - J)
 PK Replication Main (Ovi,Mariusz)
 PK Replication Slave (Ovi,Mariusz)
-PK Static page 212.71.248.134 (Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
 ProbeAPI BrightCouldChecker
 ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
 ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
@@ -91,30 +91,30 @@ ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
 ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
 ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
 ProbeAPI StartPingTestByCountry (Diego, Marcin)
-ProbeAPIService(MapLatency)_Rate_Limit_Reached
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
 Przelewy24 callback check (Diego)
-Revive-Adserver (linode, ???) (Sergey)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
 SC client alive: 26 (Vajdik)
 SC client alive: 26 (Vajdik)
 SC client alive: 28 (Vajdik)
 SC script alive (Vajdik)
-SC web BR www.testedevelocidade.net (Vajdik - Diego)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
 SC web failover 139.59.166.230 (Fedor - Mysha)
 SC web FR live 188.165.193.152 (Fedor - Mysha)
-SC web FR www.testadsl.net (Vajdik - Diego)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
 SC web JP live 106.186.24.225 (Fedor - Mysha)
-SC web JP www.bspeedtest.jp (Vajdik - Diego)
-SC web JP www.sokudo.jp (Vajdik - Diego)
-SC web JP zx.sokudo.jp (Vajdik - Diego)
-SC web NL www.alken.nl (Vajdik - Diego)
-SC web PL speedtest.net.pl (Vajdik - Diego)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
 SC web UK live 139.162.254.237  (Fedor)
-SC web UK www.broadbandspeedchecker.co.uk (Vajdik - Diego)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
 SD API GetDownload (Diego - Vajdik)
 SessionBot (Diego)
-Splunk server ping (Sergey)
+Splunk server ping (SMS: V - D - O - J)
 StartupOptimizer (Diego)
-Test-debit.fr (Misha)
+Test-debit.fr (Misha) (SMS: O - D V - J
 uSwitch: rap1.speedcheckerapi.com
 uSwitch: rap2.speedcheckerapi.com
 uSwitch: rap3.speedcheckerapi.com
@@ -172,17 +172,2273 @@ VPN:plus03DE:185.135.158.63 (Fedor)
 VPN:plus03DE:185.139.0.155 (Fedor)
 VPN:UK:78.129.223.26 (Fedor)
 VPN:UK:78.129.223.36 (Fedor)
-WP Connectivity FAILOVER Web Service (78.129.233.100) (Ovi,Diego)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
 WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
 WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
 WP IPAddress.aspx on www2.wifiprotector.com (Diego)
 WP Repl Failover (Ovi)
 WP Repl Main (Ovi)
-WP: access-svc UK server: ping (Sergey,Ovi)
-WP: access-svc US-NJ server: ping (Sergey,Ovi)
-WP: access-svc: http-test-01.wifiprotector.co (Sergey,Ovi)
-WP: access-svc: http-test-02.wifiprotector.co (Sergey,Ovi)
-WP: OLD access-svc-02: http (Sergey,Ovi)
-WP: OLD access-svc: https (Sergey,Ovi)
-www.pcspeedup.com (Vajdik - Diego)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
+www.speedcheckerapi.com failover (Diego)
+ar.pcspeedup.com (SMS: V - D - O - J)
+Blog.Speedchecker.xyz (Email: Fedor Janusz)
+BSC Failover (SMS: V - D - O - J)
+BSC: bezeq1.speedcheckerapi.com (Email: J D V O)
+BSC: bezeq2.speedcheckerapi.com (Email: J D V O)
+BSC: BSCpayload:SanPauloBR (Email: J D V O)
+BSC: bscsvr ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: bscsvr2 ServerSelection StatusCheck.aspx (SMS: D - O - V - J)
+BSC: dig11UK, BSCPayload:London1UK:178.62.116.51 (Sergey)
+BSC: dig12UK, BSCPayload:London1UK:46.101.8.207 (Sergey)
+BSC: static ServerSelection StatusCheck.aspx
+BSC:API alive (SMS: D - V - O - J)
+BSC:api TakenTests (SMS: D - V - O - J)
+BSC:aws1ie.speedcheckerapi.com
+BSC:aws2ie.speedcheckerapi.com
+BSC:aws3ie.speedcheckerapi.com
+BSC:aws4ie.speedcheckerapi.com
+BSC:dig14SG.speedcheckerapi.com
+BSC:dig15SG.speedcheckerapi.com
+BSC:dig20ny.speedcheckerapi.com
+BSC:dig21sf.speedcheckerapi.com
+BSC:dig22fr.speedcheckerapi.com
+BSC:dig23bl.speedcheckerapi.com
+BSC:digGB, BSCPayload:LondonGB:178.62.81.236 (Sergey)
+BSC:lin02UK, BSCpayload:London1UK:109.74.200.184 (Sergey)
+BSC:lin12UK, BSCPayload:London6UK:176.58.121.127 (Sergey)
+BSC:lin13JP, BSCPayload:Tokio2JP:106.187.48.199 (Sergey)
+BSC:lin14JP, BSCPayload:Tokio4JP:106.187.46.42 (Sergey)
+BSC:lin15JP, BSCPayload:Tokio5JP:106.187.53.170 (Sergey)
+BSC:lin16JP, BSCPayload:Tokio6JP:106.187.94.96 (Sergey)
+BSC:ovhFR, BSCPayload:RoubaixFR: 188.165.245.228 (Sergey)
+Cleverbridge callback check (Diego)
+Cloudperf - GetCountry method
+CloudPerf_AggregatedResults_10min
+CloudPerf_AggregatedResults_24h
+CloudPerf_AggregatedResults_30min
+CloudPerf_AggregatedResults_5min
+CloudPerf_AggregatedResults_60min
+CloudPerf_ProbeAPI_GetCountries
+CloudPerf_ProbeAPI_ping
+CloudPerf_Results_1m (SMS:  D - O - J)
+CloudPerf_Scheduler_ping
+CloudPerf_Scheduler_Status
+DB Downloads - drivercommander (Diego)
+DB Downloads - pcspeedup (Diego)
+DB Downloads - pcspeedup, pap (Diego)
+DB Downloads - requestIdPrefix cpa_ (Diego)
+DB Downloads - requestIdPrefix ppi_ (Diego)
+DB downloads - requestIDs (Diego)
+DB Downloads - wifiprotector (Diego)
+GetInstallerOption NoOffer check
+Homepage autocuntry redirect check
+internal zabbix server (linode, sergey)
+LandingPage download PCSU free_scan
+LandingPage download PCSU homepage
+LandingPage download PCSU reg_cleaner
+Leaseweb (SMS: J - O V D)
+link.pcspeedup.com redirection check (JANUSZ)
+MapLatency_VerifyClusterDataIsRefreshed (sp_Map007NewClustersPingdomVerification)
+Offer system - accepted counter
+Offer system - New records number (SMS: D - V - O - J)
+Offer system - No silent offer
+Offer system - OK
+Old PK (BandwidthMeter and other sites) (Vajdik)
+OnClose redirect by IP check
+OnClose redirect by RequestID check
+OnClose Updated check
+OpenEMM redirect check
+OpenEMM server (Diego)
+OpenEMM URL Verification (SG no PD)
+PAP system
+PC Speed Up Download Check (SMS: V - D - O - J)
+PCSU - HasOffer Daily Check of Hourly and Daily scheduled SPs (Ovi)
+PCSU API - Database connections number (Ovi - Diego)
+PCSU APi GetUninstallerOption SKIP (SMS: D - V - O - J)
+PCSU: API alive (SMS: D - V - O - J)
+PercentageOfBenchmarksWithNOResults
+PK download simulation (SMS: V - D - O - J)
+PK Replication Main (Ovi,Mariusz)
+PK Replication Slave (Ovi,Mariusz)
+PK Static page 212.71.248.134 (SMS: V - D - O - J)
+ProbeAPI BrightCouldChecker
+ProbeAPI GetClusteredProbesByBoundingBox (Diego, Marcin)
+ProbeAPI GetClusteredProbesByCountry (Diego, Marcin)
+ProbeAPI GetCountries (Diego, Marcin)
+ProbeAPI StartDIGTestByBoundingBox
+ProbeAPI StartDIGTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartDIGTestByCountry (Diego, Marcin)
+ProbeAPI StartHttpGetTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByBoundingBoxWithClusters (Diego, Marcin)
+ProbeAPI StartHTTPGetTestByCountry (Diego, Marcin)
+ProbeAPI StartPingTestByBoundingBox (Diego, Marcin)
+ProbeAPI StartPingTestByCountry (Diego, Marcin)
+ProbeAPIService(MapLatency)_Rate_Limit_Reached (SMS: D - O - V - J)
+Przelewy24 callback check (Diego)
+Revive-Adserver (linode, ???) (SMS: D - O - V - J)
+SC client alive: 26 (Vajdik)
+SC client alive: 26 (Vajdik)
+SC client alive: 28 (Vajdik)
+SC script alive (Vajdik)
+SC web BR www.testedevelocidade.net (SMS: V - D - O - J)
+SC web failover 139.59.166.230 (Fedor - Mysha)
+SC web FR live 188.165.193.152 (Fedor - Mysha)
+SC web FR www.testadsl.net (SMS: V - D - O - J)
+SC web JP live 106.186.24.225 (Fedor - Mysha)
+SC web JP www.bspeedtest.jp (SMS: V - D - O - J)
+SC web JP www.sokudo.jp (SMS: V - D - O - J)
+SC web JP zx.sokudo.jp (SMS: V - D - O - J)
+SC web NL www.alken.nl (SMS: V - D - O - J)
+SC web PL speedtest.net.pl (SMS: V - D - O - J)
+SC web UK live 139.162.254.237  (Fedor)
+SC web UK www.broadbandspeedchecker.co.uk (SMS: V - D - O - J)
+SD API GetDownload (Diego - Vajdik)
+SessionBot (Diego)
+Splunk server ping (SMS: V - D - O - J)
+StartupOptimizer (Diego)
+Test-debit.fr (Misha) (SMS: O - D V - J
+uSwitch: rap1.speedcheckerapi.com
+uSwitch: rap2.speedcheckerapi.com
+uSwitch: rap3.speedcheckerapi.com
+VPN:dig01SG, do1.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig01SG:128.199.159.125 (Fedor)
+VPN:dig02SG:128.199.159.126 (Fedor)
+VPN:dig03NY, do3.broadbandspeedchecker.co.uk (Fedor)
+VPN:dig03NY:104.131.237.38 (Fedor)
+VPN:dig04NL:178.62.184.65 (Fedor)
+VPN:dig05NL:178.62.251.221 (Fedor)
+VPN:dig06NL:178.62.249.150 (Fedor)
+VPN:dig07NY:192.241.247.119 (Fedor)
+VPN:dig08NY:104.131.0.148 (Fedor)
+VPN:edis01PL:151.236.25.27 (Fedor)
+VPN:edis01PL:37.235.48.232 (Fedor)
+VPN:edis04IT:151.236.18.199 (Fedor)
+VPN:edis04IT:192.121.46.59 (Fedor)
+VPN:edis06RU:213.183.57.70 (Fedor)
+VPN:edis06RU:213.183.57.87 (Fedor)
+VPN:edis08SE:46.246.126.220 (Fedor)
+VPN:edis08SE:46.246.24.136 (Fedor)
+VPN:edis09CH:151.236.26.173 (Fedor)
+VPN:edis09CH:151.236.27.66 (Fedor)
+VPN:edis10CL:37.235.52.215 (Fedor)
+VPN:edis10CL:37.235.52.229 (Fedor)
+VPN:edis11HK:158.255.208.226 (Fedor)
+VPN:edis11HK:158.255.208.77 (Fedor)
+VPN:edis13IT, BSCpayload:MilanoIT:149.154.157.241 (Sergey)
+VPN:lin01CA:50.116.15.95 (Fedor)
+VPN:lin01CA:96.126.101.197 (Fedor)
+VPN:lin03UK:109.74.202.98 (Fedor)
+VPN:lin03UK:212.71.238.250 (Fedor)
+VPN:lin04JP:106.186.22.27 (Fedor)
+VPN:lin04JP:106.187.97.209 (Fedor)
+VPN:lin05NJ:173.255.230.249 (Fedor)
+VPN:lin05NJ:173.255.237.28 (Fedor)
+VPN:lin06TX:198.58.111.134 (Fedor)
+VPN:lin06TX:96.126.124.243 (Fedor)
+VPN:lin07GA:173.230.139.110 (Fedor)
+VPN:lin07GA:50.116.35.135 (Fedor)
+VPN:lin08JP:106.186.30.75 (Fedor)
+VPN:lin08JP:106.187.36.43 (Fedor)
+VPN:ovh01FR:188.165.193.142 (Fedor)
+VPN:ovh02PT:94.23.76.212 (Fedor)
+VPN:ovh03IE:188.165.2.208 (Fedor)
+VPN:ovh04CZ:94.23.173.86 (Fedor)
+VPN:ovh05FR:176.31.117.216 (Fedor)
+VPN:ovh06BE:91.121.219.149 (Fedor)
+VPN:ovh07ES:5.39.28.179 (Fedor)
+VPN:ovh08LT:188.165.27.140 (Fedor)
+VPN:plus01ZA:154.127.60.135 (Fedor)
+VPN:plus01ZA:154.127.60.136 (Fedor)
+VPN:plus02BR:181.41.197.235 (Fedor)
+VPN:plus03DE:185.135.158.63 (Fedor)
+VPN:plus03DE:185.139.0.155 (Fedor)
+VPN:UK:78.129.223.26 (Fedor)
+VPN:UK:78.129.223.36 (Fedor)
+WP Connectivity FAILOVER Web Service (78.129.233.100) (SMS: O - D V - J)
+WP Connectivity Web Service (87.117.199.18) (Ovi,Diego)
+WP Connectivity Web Service 2 (87.117.199.18) (Ovi,Diego)
+WP IPAddress.aspx on www2.wifiprotector.com (Diego)
+WP Repl Failover (Ovi)
+WP Repl Main (Ovi)
+WP: access-svc UK server: ping (SMS: O - D V - J)
+WP: access-svc US-NJ server: ping (SMS: O - D V - J)
+WP: access-svc: http-test-01.wifiprotector.co (SMS: O - D V - J)
+WP: access-svc: http-test-02.wifiprotector.co (SMS: O - D V - J)
+WP: OLD access-svc-02: http (SMS: O - D V - J)
+WP: OLD access-svc: https (SMS: O - D V - J)
+www.pcspeedup.com (SMS: V - D - O - J)
 www.speedcheckerapi.com failover (Diego)

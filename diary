@@ -1,3 +1,9 @@
+12 April 2017
+Added function to find who is being alerted by sms and their 'threshold'
+Uses contacts file
+Next step: produce in usable form linked to monitor name
+Possible just list: monitor then each contact in order of threshold. include the minutes
+
 11 April 2017
 Created processjson app to find friendly names. Works but only first 50 because of pagination limit
 Updated app.py to create separate files for each page - 4 in all
