@@ -6,7 +6,7 @@ inputfilename100 = 'uptimerobot100.json'
 inputfilename150 = 'uptimerobot150.json'
 inputfilename200 = 'uptimerobot200.json'
 outputfilename = 'uptimerobotmonitors.txt'
-contactsfilename = 'contacts3.csv'
+contactsfilename = 'contacts.csv'
 smscontactsfilename = 'smscontacts.csv'
 
 def printmonitors(inputfilename, outputfilename=outputfilename):
@@ -31,22 +31,25 @@ def getcontacts(contactsfilename):
     return uptimecontacts
 
 
-def printcontacts(inputfilename, contactsdictionary, outputfilename=outputfilename):
+def getcontactalerts(inputfilename, contactsdictionary, outputfilename=outputfilename):
     with open(inputfilename, 'r') as inputfile:
         jsondata = inputfile.read()
-    outputfile = open(outputfilename, 'a')
+    outputfile = open(outputfilename, 'a', newline='')
+    outputfile = csv.writer(outputfile, quoting=csv.QUOTE_ALL)
     decoded = json.loads(jsondata)
-    smscontacts = []
+    allsmscontacts = []
     for check in range(len(decoded['monitors'])):
         monitorname = decoded['monitors'][check]['friendly_name']
-        print("Monitor is:", monitorname)
+        smscontact = []
+        smscontact.append(monitorname)
         contacts = decoded['monitors'][check]['alert_contacts']
         smscontacts = [contact for contact in contacts if contact['type'] == 8]
-        # print(type(smscontacts), smscontacts)
         for item in smscontacts:
-            print('first item is', type(item['value']), item['threshold'], contactsdictionary[item['value']])
-        print(type(contacts), contacts)
-    return smscontacts
+            contactinfo = item['threshold'], contactsdictionary[item['value']]
+            smscontact.append(contactinfo)
+        allsmscontacts.append(smscontact)
+        outputfile.writerow(smscontact)
+    return allsmscontacts
 
 printmonitors(inputfilename)
 printmonitors(inputfilename100)
@@ -55,5 +58,7 @@ printmonitors(inputfilename200)
 
 uptimecontacts = getcontacts(contactsfilename)
 print(uptimecontacts)
-printcontacts(inputfilename, uptimecontacts, smscontactsfilename)
-
+getcontactalerts(inputfilename, uptimecontacts, smscontactsfilename)
+getcontactalerts(inputfilename100, uptimecontacts, smscontactsfilename)
+getcontactalerts(inputfilename150, uptimecontacts, smscontactsfilename)
+getcontactalerts(inputfilename200, uptimecontacts, smscontactsfilename)
