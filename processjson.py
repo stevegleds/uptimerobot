@@ -1,6 +1,9 @@
 import json
 import csv
-
+'''
+Run this app.py to create the json files
+Then run processjson.py to create a csv
+'''
 inputfilename = 'uptimerobot.json'
 inputfilename100 = 'uptimerobot100.json'
 inputfilename150 = 'uptimerobot150.json'

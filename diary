@@ -1,3 +1,5 @@
+06 July 2017
+Added usage text to app.py
 13 April 2017
 Created csv of checks. This duplicates entries for some reason but easily fixed in excel
 Nest step : investigate
